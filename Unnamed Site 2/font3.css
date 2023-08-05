@@ -1,0 +1,10 @@
+@charset "utf-8";
+@font-face{
+	
+	font-family: mmd;
+	src: url("font/Monotype Corsiva.ttf")
+}
+#mm33{
+	font-size: 26px;
+	font-family: mmd;
+}
